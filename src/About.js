@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <section>
+    <section id="about">
       <div className="mx-auto">
         <h1>About</h1>
       </div>
